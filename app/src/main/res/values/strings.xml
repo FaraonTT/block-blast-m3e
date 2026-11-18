@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Block Blast</string>
+    <string name="score">Score</string>
+    <string name="best">Best</string>
+    <string name="combo">Combo ×%1$d</string>
+    <string name="game_over">Game over</string>
+    <string name="final_score">Your score: %1$d</string>
+    <string name="new_game">Play again</string>
+</resources>

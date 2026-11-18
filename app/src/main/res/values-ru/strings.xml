@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Block Blast</string>
+    <string name="score">Счёт</string>
+    <string name="best">Рекорд</string>
+    <string name="combo">Комбо ×%1$d</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="final_score">Ваш счёт: %1$d</string>
+    <string name="new_game">Играть снова</string>
+</resources>
